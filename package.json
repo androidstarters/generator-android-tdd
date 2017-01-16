@@ -1,6 +1,6 @@
 {
   "name": "generator-android-tdd",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "[Yeoman Generator] Generate Android App using AndroidTDDBootStrap https://github.com/Piasy/AndroidTDDBootStrap",
   "homepage": "https://github.com/ravidsrk/generator-android-tdd",
   "author": {
