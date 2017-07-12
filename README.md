@@ -25,14 +25,14 @@ yo android-tdd
 
 ## License
 
-MIT © [Ravindra Kumar](https://github.com/ravidsrk)
+MIT © [Ravindra Kumar](https://github.com/androidstarters)
 
 
 [npm-image]: https://badge.fury.io/js/generator-android-tdd.svg
 [npm-url]: https://npmjs.org/package/generator-android-tdd
-[travis-image]: https://travis-ci.org/ravidsrk/generator-android-tdd.svg?branch=master
-[travis-url]: https://travis-ci.org/ravidsrk/generator-android-tdd
-[daviddm-image]: https://david-dm.org/ravidsrk/generator-android-tdd.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ravidsrk/generator-android-tdd
-[coveralls-image]: https://coveralls.io/repos/ravidsrk/generator-android-tdd/badge.svg
-[coveralls-url]: https://coveralls.io/r/ravidsrk/generator-android-tdd
+[travis-image]: https://travis-ci.org/androidstarters/generator-android-tdd.svg?branch=master
+[travis-url]: https://travis-ci.org/androidstarters/generator-android-tdd
+[daviddm-image]: https://david-dm.org/androidstarters/generator-android-tdd.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/androidstarters/generator-android-tdd
+[coveralls-image]: https://coveralls.io/repos/androidstarters/generator-android-tdd/badge.svg
+[coveralls-url]: https://coveralls.io/r/androidstarters/generator-android-tdd
